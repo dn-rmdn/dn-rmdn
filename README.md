@@ -1,5 +1,6 @@
 👋 Hi, I’m Deni Ramdani
-I am a highly enthusiastic data with a demonstrated ability to excel in various technical areas. I possess strong programming and computational skills, with a specialization in nanophotonic scattering computations. I am adept at quickly acquiring new skills, allowing me to stay at the forefront of the ever-evolving data field.
+
+I'm a physics graduate from Institut Teknologi Bandung, where I specialized in computational photonic physics. With nearly six years of experience tutoring physics, I've loved helping others understand the wonders of science. Now, I'm ready for a new adventure and am excited to dive into the world of data analysis! I'm really looking forward to exploring data science and machine learning, and I can't wait to see where this journey takes me. Let's connect!
 
 <b>Learn and I exist! ✨<b> 
 <!---
